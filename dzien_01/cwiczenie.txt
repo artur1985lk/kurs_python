@@ -1,0 +1,4 @@
+nazwa = "volvo"
+waga = 1000
+cena = 100000
+print(f"{nazwa:>20} {waga:>5.2f}")
