@@ -1,4 +1,4 @@
-
+#  test
 while True:
     x = int(input("podaj liczbę: "))
     y = int(input("podaj liczbę: "))
