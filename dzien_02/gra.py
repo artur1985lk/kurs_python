@@ -7,6 +7,7 @@ skarb = [random.randrange(1, 11), random.randrange(1, 11)]
 pozycja_gracza = [random.randrange(1, 11), random.randrange(1, 11)]
 
 odleglosc_poczatkowa = abs(skarb[0] + pozycja_gracza[0]) + abs(skarb[1] + pozycja_gracza[1])
+
 while True:
     odleglosc = abs(skarb[0] + pozycja_gracza[0]) + abs(skarb[1] + pozycja_gracza[1])
     if DEBUG:
