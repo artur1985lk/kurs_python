@@ -35,7 +35,7 @@ class Wlasciciel(Administrator):
     pass
 
 class Magazyn():
-
+    pass
 class Zatowarowanie(Magazyn):
     pass
 

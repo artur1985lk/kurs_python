@@ -1,3 +1,6 @@
+from difflib import Match
+
+
 class PoTegowanie:
 
     def pow(self, x, n):
@@ -24,3 +27,6 @@ class PoTegowanie:
 print(PoTegowanie().pow(2, 3))
 print(PoTegowanie().pow(-2, -1))
 print(pow(-2, -1))
+import math
+
+print(math.sqrt(2))
